@@ -1,0 +1,338 @@
+# depslib dependency file v1.0
+1575493176 source:c:\users\alexis\desktop\programacion 2\sume\ajedrez\main.cpp
+	<iostream>
+	"Pieza.hpp"
+	"casilla.hpp"
+	"tablero.hpp"
+	"peon.hpp"
+	"caballo.hpp"
+	"dama.hpp"
+	"alfil.hpp"
+	"rey.hpp"
+	"torre.hpp"
+	<graphics.h>
+
+1575486253 source:c:\users\alexis\desktop\programacion 2\sume\ajedrez\pieza.cpp
+	"Pieza.hpp"
+
+1575486253 c:\users\alexis\desktop\programacion 2\sume\ajedrez\pieza.hpp
+	<string>
+
+1575510093 source:c:\users\alexis\desktop\programacion 2\sume\ajedrez\tablero.cpp
+	"tablero.hpp"
+	"graphics.h"
+	<iostream>
+
+1575424342 source:c:\users\alexis\desktop\programacion 2\sume\ajedrez\casilla.cpp
+	"casilla.hpp"
+	"graphics.h"
+
+1575055794 c:\users\alexis\desktop\programacion 2\sume\ajedrez\casilla.hpp
+	"Pieza.hpp"
+
+1575494532 c:\users\alexis\desktop\programacion 2\sume\ajedrez\tablero.hpp
+	"peon.hpp"
+	"caballo.hpp"
+	"dama.hpp"
+	"alfil.hpp"
+	"rey.hpp"
+	"torre.hpp"
+	"casilla.hpp"
+	<string>
+
+1575487076 source:c:\users\alexis\desktop\programacion 2\sume\ajedrez\peon.cpp
+	"peon.hpp"
+	<graphics.h>
+
+1575481810 c:\users\alexis\desktop\programacion 2\sume\ajedrez\peon.hpp
+	"Pieza.hpp"
+	"casilla.hpp"
+
+1575480239 source:c:\users\alexis\desktop\programacion 2\sume\ajedrez\caballo.cpp
+	"caballo.hpp"
+	<graphics.h>
+	<iostream>
+
+1575480239 c:\users\alexis\desktop\programacion 2\sume\ajedrez\caballo.hpp
+	"Pieza.hpp"
+
+1575480239 source:c:\users\alexis\desktop\programacion 2\sume\ajedrez\dama.cpp
+	"dama.hpp"
+	<graphics.h>
+
+1575418611 c:\users\alexis\desktop\programacion 2\sume\ajedrez\dama.hpp
+	"Pieza.hpp"
+
+1575480239 source:c:\users\alexis\desktop\programacion 2\sume\ajedrez\alfil.cpp
+	"alfil.hpp"
+	<graphics.h>
+
+1575427767 c:\users\alexis\desktop\programacion 2\sume\ajedrez\alfil.hpp
+	"Pieza.hpp"
+
+1575480239 source:c:\users\alexis\desktop\programacion 2\sume\ajedrez\rey.cpp
+	"rey.hpp"
+	<graphics.h>
+
+1575052110 c:\users\alexis\desktop\programacion 2\sume\ajedrez\rey.hpp
+	"Pieza.hpp"
+
+1575480239 source:c:\users\alexis\desktop\programacion 2\sume\ajedrez\torre.cpp
+	"torre.hpp"
+	<graphics.h>
+
+1575427545 c:\users\alexis\desktop\programacion 2\sume\ajedrez\torre.hpp
+	"Pieza.hpp"
+
+1575602569 source:c:\users\lenovo\downloads\ajedrez\alfil.cpp
+	"alfil.hpp"
+	<graphics.h>
+
+1575594112 c:\users\lenovo\downloads\ajedrez\alfil.hpp
+	"Pieza.hpp"
+
+1575602568 c:\users\lenovo\downloads\ajedrez\pieza.hpp
+	<string>
+
+1575602569 source:c:\users\lenovo\downloads\ajedrez\caballo.cpp
+	"caballo.hpp"
+	<graphics.h>
+	<iostream>
+
+1575594113 c:\users\lenovo\downloads\ajedrez\caballo.hpp
+	"Pieza.hpp"
+
+1575602568 source:c:\users\lenovo\downloads\ajedrez\casilla.cpp
+	"casilla.hpp"
+	"graphics.h"
+
+1575602569 c:\users\lenovo\downloads\ajedrez\casilla.hpp
+	"Pieza.hpp"
+
+1575602569 source:c:\users\lenovo\downloads\ajedrez\dama.cpp
+	"dama.hpp"
+	<graphics.h>
+
+1575594113 c:\users\lenovo\downloads\ajedrez\dama.hpp
+	"Pieza.hpp"
+
+1575602569 source:c:\users\lenovo\downloads\ajedrez\peon.cpp
+	"peon.hpp"
+	<graphics.h>
+
+1575594112 c:\users\lenovo\downloads\ajedrez\peon.hpp
+	"Pieza.hpp"
+	"casilla.hpp"
+
+1575602588 source:c:\users\lenovo\downloads\ajedrez\pieza.cpp
+	"Pieza.hpp"
+
+1575602568 source:c:\users\lenovo\downloads\ajedrez\rey.cpp
+	"rey.hpp"
+	<graphics.h>
+
+1575594113 c:\users\lenovo\downloads\ajedrez\rey.hpp
+	"Pieza.hpp"
+
+1575603578 source:c:\users\lenovo\downloads\ajedrez\tablero.cpp
+	"tablero.hpp"
+	"graphics.h"
+	<iostream>
+	<string>
+
+1575591979 c:\users\lenovo\downloads\ajedrez\tablero.hpp
+	"peon.hpp"
+	"caballo.hpp"
+	"dama.hpp"
+	"alfil.hpp"
+	"rey.hpp"
+	"torre.hpp"
+	"casilla.hpp"
+	<string>
+
+1575594112 c:\users\lenovo\downloads\ajedrez\torre.hpp
+	"Pieza.hpp"
+
+1575602568 source:c:\users\lenovo\downloads\ajedrez\torre.cpp
+	"torre.hpp"
+	<graphics.h>
+
+1575602568 source:c:\users\lenovo\downloads\ajedrez\main.cpp
+	<iostream>
+	"Pieza.hpp"
+	"casilla.hpp"
+	"tablero.hpp"
+	"peon.hpp"
+	"caballo.hpp"
+	"dama.hpp"
+	"alfil.hpp"
+	"rey.hpp"
+	"torre.hpp"
+	<graphics.h>
+
+1575606169 source:c:\users\lenovo\dropbox\mi pc (desktop-omm0h0n)\desktop\semestres\quinto semestre\programación orientada a objetos\ajedrez\alfil.cpp
+	"alfil.hpp"
+	<graphics.h>
+
+1575597712 c:\users\lenovo\dropbox\mi pc (desktop-omm0h0n)\desktop\semestres\quinto semestre\programación orientada a objetos\ajedrez\alfil.hpp
+	"Pieza.hpp"
+
+1575606168 c:\users\lenovo\dropbox\mi pc (desktop-omm0h0n)\desktop\semestres\quinto semestre\programación orientada a objetos\ajedrez\pieza.hpp
+	<string>
+
+1575606169 source:c:\users\lenovo\dropbox\mi pc (desktop-omm0h0n)\desktop\semestres\quinto semestre\programación orientada a objetos\ajedrez\caballo.cpp
+	"caballo.hpp"
+	<graphics.h>
+	<iostream>
+
+1575597713 c:\users\lenovo\dropbox\mi pc (desktop-omm0h0n)\desktop\semestres\quinto semestre\programación orientada a objetos\ajedrez\caballo.hpp
+	"Pieza.hpp"
+
+1575606168 source:c:\users\lenovo\dropbox\mi pc (desktop-omm0h0n)\desktop\semestres\quinto semestre\programación orientada a objetos\ajedrez\casilla.cpp
+	"casilla.hpp"
+	"graphics.h"
+
+1575606169 c:\users\lenovo\dropbox\mi pc (desktop-omm0h0n)\desktop\semestres\quinto semestre\programación orientada a objetos\ajedrez\casilla.hpp
+	"Pieza.hpp"
+
+1575606169 source:c:\users\lenovo\dropbox\mi pc (desktop-omm0h0n)\desktop\semestres\quinto semestre\programación orientada a objetos\ajedrez\dama.cpp
+	"dama.hpp"
+	<graphics.h>
+
+1575597713 c:\users\lenovo\dropbox\mi pc (desktop-omm0h0n)\desktop\semestres\quinto semestre\programación orientada a objetos\ajedrez\dama.hpp
+	"Pieza.hpp"
+
+1575606168 source:c:\users\lenovo\dropbox\mi pc (desktop-omm0h0n)\desktop\semestres\quinto semestre\programación orientada a objetos\ajedrez\main.cpp
+	<iostream>
+	"Pieza.hpp"
+	"casilla.hpp"
+	"tablero.hpp"
+	"peon.hpp"
+	"caballo.hpp"
+	"dama.hpp"
+	"alfil.hpp"
+	"rey.hpp"
+	"torre.hpp"
+	<graphics.h>
+
+1575595579 c:\users\lenovo\dropbox\mi pc (desktop-omm0h0n)\desktop\semestres\quinto semestre\programación orientada a objetos\ajedrez\tablero.hpp
+	"peon.hpp"
+	"caballo.hpp"
+	"dama.hpp"
+	"alfil.hpp"
+	"rey.hpp"
+	"torre.hpp"
+	"casilla.hpp"
+	<string>
+
+1575597712 c:\users\lenovo\dropbox\mi pc (desktop-omm0h0n)\desktop\semestres\quinto semestre\programación orientada a objetos\ajedrez\peon.hpp
+	"Pieza.hpp"
+	"casilla.hpp"
+
+1575597713 c:\users\lenovo\dropbox\mi pc (desktop-omm0h0n)\desktop\semestres\quinto semestre\programación orientada a objetos\ajedrez\rey.hpp
+	"Pieza.hpp"
+
+1575597712 c:\users\lenovo\dropbox\mi pc (desktop-omm0h0n)\desktop\semestres\quinto semestre\programación orientada a objetos\ajedrez\torre.hpp
+	"Pieza.hpp"
+
+1575606169 source:c:\users\lenovo\dropbox\mi pc (desktop-omm0h0n)\desktop\semestres\quinto semestre\programación orientada a objetos\ajedrez\peon.cpp
+	"peon.hpp"
+	<graphics.h>
+
+1575606168 source:c:\users\lenovo\dropbox\mi pc (desktop-omm0h0n)\desktop\semestres\quinto semestre\programación orientada a objetos\ajedrez\rey.cpp
+	"rey.hpp"
+	<graphics.h>
+
+1575607178 source:c:\users\lenovo\dropbox\mi pc (desktop-omm0h0n)\desktop\semestres\quinto semestre\programación orientada a objetos\ajedrez\tablero.cpp
+	"tablero.hpp"
+	"graphics.h"
+	<iostream>
+	<string>
+
+1575606168 source:c:\users\lenovo\dropbox\mi pc (desktop-omm0h0n)\desktop\semestres\quinto semestre\programación orientada a objetos\ajedrez\torre.cpp
+	"torre.hpp"
+	<graphics.h>
+
+1575606169 source:d:\my documents\semestres\5° semestre\programación orientada a objetos\ajedrez\alfil.cpp
+	"alfil.hpp"
+	<graphics.h>
+
+1575597712 d:\my documents\semestres\5° semestre\programación orientada a objetos\ajedrez\alfil.hpp
+	"Pieza.hpp"
+
+1575606168 d:\my documents\semestres\5° semestre\programación orientada a objetos\ajedrez\pieza.hpp
+	<string>
+
+1575606169 source:d:\my documents\semestres\5° semestre\programación orientada a objetos\ajedrez\caballo.cpp
+	"caballo.hpp"
+	<graphics.h>
+	<iostream>
+
+1575597713 d:\my documents\semestres\5° semestre\programación orientada a objetos\ajedrez\caballo.hpp
+	"Pieza.hpp"
+
+1575606168 source:d:\my documents\semestres\5° semestre\programación orientada a objetos\ajedrez\casilla.cpp
+	"casilla.hpp"
+	"graphics.h"
+
+1575606169 d:\my documents\semestres\5° semestre\programación orientada a objetos\ajedrez\casilla.hpp
+	"Pieza.hpp"
+
+1575606169 source:d:\my documents\semestres\5° semestre\programación orientada a objetos\ajedrez\dama.cpp
+	"dama.hpp"
+	<graphics.h>
+
+1575597713 d:\my documents\semestres\5° semestre\programación orientada a objetos\ajedrez\dama.hpp
+	"Pieza.hpp"
+
+1575606168 source:d:\my documents\semestres\5° semestre\programación orientada a objetos\ajedrez\main.cpp
+	<iostream>
+	"Pieza.hpp"
+	"casilla.hpp"
+	"tablero.hpp"
+	"peon.hpp"
+	"caballo.hpp"
+	"dama.hpp"
+	"alfil.hpp"
+	"rey.hpp"
+	"torre.hpp"
+	<graphics.h>
+
+1575595579 d:\my documents\semestres\5° semestre\programación orientada a objetos\ajedrez\tablero.hpp
+	"peon.hpp"
+	"caballo.hpp"
+	"dama.hpp"
+	"alfil.hpp"
+	"rey.hpp"
+	"torre.hpp"
+	"casilla.hpp"
+	<string>
+
+1575597712 d:\my documents\semestres\5° semestre\programación orientada a objetos\ajedrez\peon.hpp
+	"Pieza.hpp"
+	"casilla.hpp"
+
+1575597713 d:\my documents\semestres\5° semestre\programación orientada a objetos\ajedrez\rey.hpp
+	"Pieza.hpp"
+
+1575597712 d:\my documents\semestres\5° semestre\programación orientada a objetos\ajedrez\torre.hpp
+	"Pieza.hpp"
+
+1575606169 source:d:\my documents\semestres\5° semestre\programación orientada a objetos\ajedrez\peon.cpp
+	"peon.hpp"
+	<graphics.h>
+
+1575606168 source:d:\my documents\semestres\5° semestre\programación orientada a objetos\ajedrez\rey.cpp
+	"rey.hpp"
+	<graphics.h>
+
+1575607178 source:d:\my documents\semestres\5° semestre\programación orientada a objetos\ajedrez\tablero.cpp
+	"tablero.hpp"
+	"graphics.h"
+	<iostream>
+	<string>
+
+1575606168 source:d:\my documents\semestres\5° semestre\programación orientada a objetos\ajedrez\torre.cpp
+	"torre.hpp"
+	<graphics.h>
+
